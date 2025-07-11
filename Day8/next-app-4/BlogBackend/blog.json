@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Stranger Things: The Upside Down Unleashed",
+    "author": "SciFiCentral",
+    "date": "2025-07-11",
+    "tags": [
+      "Stranger Things",
+      "Netflix",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+    "summary": "A supernatural mystery unfolds in Hawkins, Indiana where kids face creatures from another world.",
+    "content": "From eerie government experiments to nostalgic D&D tropes, Stranger Things brings 80s pop culture and interdimensional horror into a thrilling blend. Season 4 dives into character trauma and the origins of Vecna."
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad: Chemistry of Crime",
+    "author": "TVVault",
+    "date": "2025-07-10",
+    "tags": [
+      "Breaking Bad",
+      "Netflix",
+      "Drama",
+      "Crime"
+    ],
+    "image": "https://wallpapercat.com/w/full/d/2/0/22800-1920x1080-desktop-1080p-breaking-bad-wallpaper-photo.jpg",
+    "summary": "Walter White’s rise from teacher to kingpin is a cautionary tale of pride and power.",
+    "content": "Featuring brilliant pacing and character arcs, Breaking Bad is often considered peak television. This blog explores its symbolism, storytelling, and unforgettable transformation of Mr. White."
+  },
+  {
+    "id": 3,
+    "title": "The Boys: When Heroes Go Bad",
+    "author": "HeroWatch",
+    "date": "2025-07-09",
+    "tags": [
+      "The Boys",
+      "Prime Video",
+      "Superhero",
+      "Dark Comedy"
+    ],
+    "image": "https://people.com/thmb/MPxaCg9tEr-nXN0rmSGZvuDwuTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(933x581:935x583)/the-boys-1-b1810f127b344afa952785ec0c1e82dc.jpg",
+    "summary": "Behind the capes lies corruption, manipulation, and terrifying power.",
+    "content": "The Boys redefines the superhero genre by showing the ugly side of fame, corporate greed, and unchecked power. Homelander is TV’s most terrifying hero turned villain."
+  },
+  {
+    "id": 4,
+    "title": "Money Heist: Red Hood Revolution",
+    "author": "HeistTheory",
+    "date": "2025-07-08",
+    "tags": [
+      "Money Heist",
+      "Netflix",
+      "Thriller",
+      "Heist"
+    ],
+    "image": "https://wallpapers.com/images/featured/money-heist-segtwbhffwy01w82.jpg",
+    "summary": "The Professor and his crew fight for more than money—they fight for rebellion.",
+    "content": "With charismatic characters and heart-pounding tension, Money Heist became a global sensation. The blog explores symbolism behind the red suits and the Berlin-Tokyo connection."
+  },
+  {
+    "id": 5,
+    "title": "Mirzapur: Power, Guns, and Vengeance",
+    "author": "DesiStream",
+    "date": "2025-07-07",
+    "tags": [
+      "Mirzapur",
+      "Prime Video",
+      "India",
+      "Crime"
+    ],
+    "image": "https://images.moneycontrol.com/static-mcnews/2024/07/20240704044648_ms3.png?impolicy=website&width=770&height=431",
+    "summary": "In the heart of Uttar Pradesh, crime and ambition clash violently.",
+    "content": "Guddu and Kaleen Bhaiya’s rivalry escalates across two seasons filled with betrayal and bloodshed. We dissect the characters and why Mirzapur defines desi noir."
+  },
+  {
+    "id": 6,
+    "title": "Wednesday: Gothic Girl Power",
+    "author": "MysteryMuse",
+    "date": "2025-07-06",
+    "tags": [
+      "Wednesday",
+      "Netflix",
+      "Mystery",
+      "Teen"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbbFSFfMm38LiJc_fUzTqQphHD24tmlzj6g&s",
+    "summary": "Wednesday Addams takes center stage in a spooky, stylish mystery at Nevermore Academy.",
+    "content": "With Tim Burton’s signature flair, Wednesday blends gothic aesthetics with teen drama and supernatural intrigue. Jenna Ortega’s performance is a standout."
+  },
+  {
+    "id": 7,
+    "title": "Loki: Time Twists and Mischief",
+    "author": "MarvelChronicles",
+    "date": "2025-07-05",
+    "tags": [
+      "Loki",
+      "Disney+",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/f6f10206-8eab-4ebc-954e-9b3f2932283e/compose?aspectRatio=1.78&format=webp&width=1200",
+    "summary": "The God of Mischief faces the Time Variance Authority in a multiverse-bending adventure.",
+    "content": "Loki explores identity, destiny, and chaos across timelines. The blog unpacks TVA lore, Sylvie’s arc, and the implications for Marvel’s Phase 5."
+  },
+  {
+    "id": 8,
+    "title": "Squid Game: Survival and Society",
+    "author": "KDramaDecoded",
+    "date": "2025-07-04",
+    "tags": [
+      "Squid Game",
+      "Netflix",
+      "Korean",
+      "Thriller"
+    ],
+    "image": "https://wallpapercat.com/w/full/6/e/4/46462-3840x2160-desktop-4k-squid-game-background-image.jpg",
+    "summary": "456 players risk their lives in deadly games for a life-changing prize.",
+    "content": "Squid Game critiques capitalism and desperation through brutal competition. This post explores symbolism, character arcs, and global impact."
+  },
+  {
+    "id": 9,
+    "title": "Peaky Blinders: Grit and Glory",
+    "author": "BritishSaga",
+    "date": "2025-07-03",
+    "tags": [
+      "Peaky Blinders",
+      "BBC",
+      "Crime",
+      "Drama"
+    ],
+    "image": "https://4kwallpapers.com/images/wallpapers/peaky-blinders-tv-3840x2160-14931.jpg",
+    "summary": "Tommy Shelby leads a gang through post-WWI Birmingham with style and ruthlessness.",
+    "content": "Peaky Blinders is a visual feast of noir storytelling, political intrigue, and family drama. We explore its historical roots and character evolution."
+  }
+]
