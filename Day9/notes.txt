@@ -1,0 +1,28 @@
+React - library
+  => it is client side
+Next - Framework
+  => server side
+  => everything in single file 
+
+json
+  => ~ patch version
+  => ^ minor versions
+  
+Dependencies
+  => These are packages required for your application to run in production.
+
+DevDependencies
+  => Packages needed only during development, such as testing tools, build tools, linters, etc. They are not needed in production.
+
+pearDependencies
+  =>  Why Use Peer Dependencies?
+  => To avoid duplicate versions of libraries (like React) in the final app.  
+  => To make sure your package works with the app’s specific version of a dependency.
+  => To ensure compatibility with shared packages like react, vue, angular, etc.
+
+return
+   => In a React component, return tells what JSX (UI) the component should render to the screen.
+
+export default 
+   => export default allows the component to be imported and used in other files.
+

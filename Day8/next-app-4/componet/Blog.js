@@ -18,7 +18,6 @@ const Blog = () => {
               <p className="blog-summary">{post.summary}</p>
               <div className="blog-footer">
                 <span>{post.date}</span>
-                <span className="blog-comments"> · {Math.floor(Math.random() * 3)} comments</span>
               </div>
             </div>
           </div>
