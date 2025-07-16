@@ -26,3 +26,4 @@ return
 export default 
    => export default allows the component to be imported and used in other files.
 
+1xx (Informational), 2xx (Success), 3xx (Redirection), 4xx (Client Error), and 5xx (Server Error)
